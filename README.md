@@ -1,4 +1,4 @@
-![Vanessa Segovia - Developer](./banner.png)
+![Vanessa Segovia - Developer](./banner.jpg)
 # 👋 Hola, soy Vanessa Segovia
 
 💻 Desarrolladora en formación | 📱 Desarrollo de aplicaciones | 🐧 Linux
