@@ -28,7 +28,15 @@ Actualmente estoy ampliando mis conocimientos en programación, desarrollo de ap
 ### 🐾 My Pet
 Proyecto de aplicación móvil actualmente en desarrollo.
 
-[añadir mas]
+### 🎬 Watchly
+Aplicación móvil disponible solo para Android, orientada a llevar un registro de películas y series por ver, en curso y terminadas.
+[Disponible en Google Play](https://play.google.com/store/apps/details?id=com.vsegovia15.watchly)
+
+### 🪙 NumisWorld
+Aplicación web y móvil en desarrollo, pensada para digitalizar tu colección de monedas y billetes.
+
+### 🚗 Revvo
+Aplicación web y móvil en desarrollo, sirve para organizar tus vehículos y sus revisiones, cambios de neumáticos, ITV, repostajes, entre otras.
 
 ---
 
