@@ -30,6 +30,7 @@ Proyecto de aplicación móvil actualmente en desarrollo.
 
 ### 🎬 Watchly
 Aplicación móvil disponible solo para Android, orientada a llevar un registro de películas y series por ver, en curso y terminadas.
+
 [Disponible en Google Play](https://play.google.com/store/apps/details?id=com.vsegovia15.watchly)
 
 ### 🪙 NumisWorld
